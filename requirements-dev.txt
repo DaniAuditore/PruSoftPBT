@@ -1,0 +1,11 @@
+pytest==8.4.2
+hypothesis==6.142.1
+ruff==0.13.3
+# Pin transitive dependencies to reproduce the verified environment.
+attrs==26.1.0
+colorama==0.4.6
+iniconfig==2.3.0
+packaging==26.3
+pluggy==1.6.0
+pygments==2.21.0
+sortedcontainers==2.4.0
